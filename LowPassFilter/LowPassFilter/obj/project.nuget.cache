@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfyacSK4vKvEdo0lP/QrUxy+CLWnsyCRKnvt9CwBKI99cX2bLznbayCB8KwVf9aDKCDzEamwjSBv48bATwpPPw==",
+  "success": true,
+  "projectFilePath": "E:\\my_fork\\LowPassFilter\\LowPassFilter\\LowPassFilter\\LowPassFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GRL\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\GRL\\.nuget\\packages\\accord.audio\\3.8.0\\accord.audio.3.8.0.nupkg.sha512",
+    "C:\\Users\\GRL\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\GRL\\.nuget\\packages\\mathnet.filtering\\0.7.0\\mathnet.filtering.0.7.0.nupkg.sha512",
+    "C:\\Users\\GRL\\.nuget\\packages\\mathnet.numerics\\4.9.1\\mathnet.numerics.4.9.1.nupkg.sha512",
+    "C:\\Users\\GRL\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
